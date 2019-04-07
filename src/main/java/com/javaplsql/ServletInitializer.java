@@ -1,4 +1,4 @@
-package com.javaplsql.javaplsql;
+package com.javaplsql;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
